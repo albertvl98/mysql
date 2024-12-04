@@ -1,0 +1,11 @@
+{
+  "name": "MySQL Connector",
+  "version": "1.0",
+  "slug": "mysql_connector",
+  "description": "Addon to install MySQL Connector",
+  "arch": ["amd64", "armv7", "armhf"],
+  "startup": "services",
+  "boot": "auto",
+  "options": {},
+  "schema": {}
+}
